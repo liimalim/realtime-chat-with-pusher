@@ -1,3 +1,4 @@
+![image alim aj](https://raw.githubusercontent.com/liimalim/realtime-chat-with-pusher/master/1617011696-template-realtime-chat.png)
 ## Installation
 - Clone this repository
 - Open your cmd and type `composer install`
@@ -16,6 +17,3 @@ don't forget to replace in `submit.php` line `9,14,15,16`
 You can support the maintainer of this project through the link below
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/liimalim)
-
-## Output
-![image alim aj](https://raw.githubusercontent.com/liimalim/realtime-chat-with-pusher/master/1617011696-template-realtime-chat.png)
